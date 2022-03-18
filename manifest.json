@@ -1,0 +1,42 @@
+{
+  "name": "Evallstore",
+  "short_name": "Evallstore",
+  "description": "Evallstore Most Modren 3rd party app install jailbreak, paid, plus, removed apps free Download it Now",
+  "lang": "en-US",
+  "start_url": "a.php",
+  "display": "standalone",
+  "background_color": "#1c1c28",
+  "theme_color": "#1c1c28",
+  "icons": [
+    {
+      "src": "/assets/icon/128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icon/144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icon/152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icon/192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icon/256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icon/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
